@@ -1,3 +1,6 @@
-# elforastero.github.io
+<h1>elforastero.github.io</h1>
+<hr>
+<br>
+<br>
 
-[JavaScript30 challenge](/javascript30/)
+<a href="/javascript30/">JavaScript30 Challenge</a>
